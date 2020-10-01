@@ -1,16 +1,18 @@
 # Railway-Management-Project-C-
 
-This program is used to keep reservation record and passenger record.
+This program is used to keep the reservation record and passenger record.
 
-This program consists of the following options:
+This program consists of the following modes:
 
 1.	 Admin Mode:
+The admin of the program has access to the following functiionalities and can do the following:
 a)	To create, add and display train details.
 b)	To manage users: create, add and display user details.
 c)	To display passenger details.
 d)	To return to the main menu.
 
 2.	 User Mode:
+The user of the program has access to the following functiionalities and can do the following:
 a)	To reserve train tickets.
 b)	To cancel train tickets.
 c)	Train enquiry.
